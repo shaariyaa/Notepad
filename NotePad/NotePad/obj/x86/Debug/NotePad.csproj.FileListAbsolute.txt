@@ -1,0 +1,27 @@
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\bin\Debug\NotePad.exe
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\bin\Debug\NotePad.pdb
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\obj\x86\Debug\NotePad.Form1.resources
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\obj\x86\Debug\NotePad.exe
+C:\Users\muham\AppData\Local\Temporary Projects\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+C:\Users\muham\documents\visual studio 2010\Projects\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\muham\documents\visual studio 2010\Projects\Notepad\NotePad\obj\x86\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\muham\documents\visual studio 2010\Projects\Notepad\NotePad\obj\x86\Debug\NotePad.replace.resources
+F:\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+F:\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.exe
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.pdb
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.Form1.resources
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.Properties.Resources.resources
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.replace.resources
+C:\Users\Shaa riya\Desktop\NotePad\NotePad\obj\x86\Debug\NotePad.csproj.GenerateResource.Cache
